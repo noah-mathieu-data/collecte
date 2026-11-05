@@ -4,7 +4,7 @@ Mon premier projet Git, fait pendant la semaine 8 de ma formation Data Analyst Ã
 
 J'y ai appris Ã  utiliser le terminal, VS Code, les environnements virtuels et Git.
 
-## Ce qu'il y a dedans
+## A l'interieur
 
 - `src/verifier.sh` : mon premier script dans le terminal
 - `src/premier_script.py` : mon premier script Python
