@@ -22,6 +22,14 @@ python -m venv .venv
 source .venv/Scripts/activate
 pip install -r requirements.txt
 ```
+## Compétences
+
+- me déplacer et créer des fichiers dans le terminal
+- coder et trouver un bug avec le débogueur de VS Code
+- créer un environnement virtuel et installer des bibliothèques
+- enregistrer mon travail avec Git
+- travailler avec des branches et résoudre un conflit
+- mettre mon projet en ligne sur GitHub
 
 ## Outils
 
