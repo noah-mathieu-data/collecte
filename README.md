@@ -1,4 +1,4 @@
-# Projet collecte
+# Portfolio Data Analyst - promotion 2026
 
 Projet d'entrainement de la Wild Code School (semaine 8).
 
