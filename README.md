@@ -1,29 +1,22 @@
 # collecte
 
-Projet d'entraînement réalisé pendant ma formation Data Analyst à la Wild Code School (semaine 8).
-Il me sert à pratiquer les outils du quotidien d'un analyste : le terminal, VS Code, les environnements virtuels Python, Git et GitHub.
+Mon premier projet Git, fait pendant la semaine 8 de ma formation Data Analyst à la Wild Code School.
 
-## Ce que fait ce projet
+J'y ai appris à utiliser le terminal, VS Code, les environnements virtuels et Git.
 
-Chaque script correspond à un exercice de la formation :
+## Ce qu'il y a dedans
 
-| Script | Ce qu'il fait |
+| Fichier | Exercice |
 |---|---|
-| `src/verifier.sh` | vérifie la structure du projet depuis le terminal |
-| `src/premier_script.py` | premier script Python lancé depuis VS Code |
-| `src/moyenne_cassee.py` | calcul de moyenne dont j'ai trouvé et corrigé le bug avec le débogueur |
-| `src/test_env.py` | vérifie que pandas est bien installé dans l'environnement virtuel |
-| `src/stats.py` | calcul de la médiane d'une liste de notes |
+| `src/verifier.sh` | mon premier script dans le terminal |
+| `src/premier_script.py` | mon premier script Python dans VS Code |
+| `src/moyenne_cassee.py` | un bug trouvé avec le débogueur |
+| `src/test_env.py` | test de pandas dans l'environnement virtuel |
+| `src/stats.py` | calcul de la médiane, fait sur une branche |
 
-## Structure
+Le dossier `data/` n'est pas mis en ligne (il est dans le `.gitignore`).
 
-| Dossier | Contenu |
-|---|---|
-| `src/` | les scripts |
-| `data/` | les fichiers de données (non versionnés) |
-| `notebooks/` | les analyses exploratoires |
-
-## Installation
+## Pour lancer le projet
 
 ```bash
 python -m venv .venv
@@ -33,8 +26,8 @@ pip install -r requirements.txt
 
 ## Outils
 
-Python · pandas · requests · Git · GitHub · VS Code
+Python, pandas, Git, GitHub, VS Code
 
-## Me contacter
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/noah-mathieu-data)
+[Mon LinkedIn](https://www.linkedin.com/in/noah-mathieu-data)
