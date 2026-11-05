@@ -6,13 +6,13 @@ J'y ai appris à utiliser le terminal, VS Code, les environnements virtuels et G
 
 ## Ce qu'il y a dedans
 
-| Fichier | Exercice |
-|---|---|
-| `src/verifier.sh` | mon premier script dans le terminal |
-| `src/premier_script.py` | mon premier script Python dans VS Code |
-| `src/moyenne_cassee.py` | un bug trouvé avec le débogueur |
-| `src/test_env.py` | test de pandas dans l'environnement virtuel |
-| `src/stats.py` | calcul de la médiane, fait sur une branche |
+- `src/verifier.sh` : mon premier script dans le terminal
+- `src/premier_script.py` : mon premier script Python
+- `src/moyenne_cassee.py` : un bug que j'ai trouvé avec le débogueur
+- `src/test_env.py` : un test pour vérifier que pandas est bien installé
+- `src/stats.py` : un calcul de médiane, fait sur une branche
+
+Les données (`data/`) ne sont pas mises en ligne.
 
 Le dossier `data/` n'est pas mis en ligne (il est dans le `.gitignore`).
 
