@@ -1,4 +1,4 @@
-# Projet collecte
+# Mon portfolio
 
 Projet d'entrainement de la Wild Code School (semaine 8).
 
