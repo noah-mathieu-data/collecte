@@ -1,6 +1,6 @@
 # collecte
 
-Mon premier projet Git, fait pendant la semaine 8 de ma formation Data Analyst à la Wild Code School.
+Mon premier projet Git fait pendant la semaine 8 de ma formation Data Analyst à la Wild Code School.
 
 J'y ai appris à utiliser le terminal, VS Code, les environnements virtuels et Git.
 
